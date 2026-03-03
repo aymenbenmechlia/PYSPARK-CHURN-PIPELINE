@@ -15,6 +15,7 @@ PowerShell example:
 $env:DATA_PATH="data/"
 $env:FEATURE_PATH="features_store/"
 $env:MODEL_PATH="model/"
+$env:METRICS_PATH="metrics/training_metrics.json"
 $env:CHURN_WINDOW_DAYS="90"
 $env:N_PARTITIONS="200"
 
