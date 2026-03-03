@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+.ipynb_checkpoints/
+
+.vscode/
+.idea/
+
+build/
+dist/
+*.egg-info/
+
+*.log
+
+# Spark / Hadoop local artifacts
+metastore_db/
+spark-warehouse/
+derby.log
+
+# Local environment files
+.env
+.env.*
