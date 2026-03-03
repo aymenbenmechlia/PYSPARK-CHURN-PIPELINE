@@ -27,6 +27,12 @@ dist/
 metastore_db/
 spark-warehouse/
 derby.log
+data/
+features_store/
+model/
+predictions/
+metrics/
+generate_sample_data.py
 
 # Local environment files
 .env
